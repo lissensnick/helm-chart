@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  simplewebservice:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-06T17:12:54.030859749Z"
+    description: A Helm chart for Kubernetes
+    digest: 0d960d1f9a9e2e7ace4c0887ff02a37e4d83aa3654a0ab22d29c2d271dd36fff
+    name: simplewebservice
+    type: application
+    urls:
+    - https://github.com/lissensnick/helm-chart/releases/download/simplewebservice-0.1.0/simplewebservice-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-06T17:12:54.030868049Z"
